@@ -1,7 +1,7 @@
 const Services = () => {
   return (
     <div id="services" className="flex flex-col items-center mt-10">
-      <div className="flex flex-col sm:flex-row items-center justify-around  mb-20 w-11/12 md:w-9/12 ">
+      <div className="flex flex-col sm:flex-row items-center justify-around  mb-20 md:mb-8 w-11/12 md:w-9/12 ">
         <img
           src="../../images/image 2.png"
           className="w-[275px] h-[275px] md:w-[414px] md:h-[414px]"
