@@ -51,7 +51,7 @@ const Navbar = () => {
               <li>
                 <a
                   href="#services"
-                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 "
+                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0  md:p-0 "
                   aria-current="page"
                 >
                   Services
@@ -60,7 +60,7 @@ const Navbar = () => {
               <li>
                 <a
                   href="#about"
-                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 "
+                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0  md:p-0 "
                 >
                   About Us
                 </a>
@@ -68,7 +68,7 @@ const Navbar = () => {
               <li>
                 <a
                   href="#contact"
-                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  "
+                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0  md:p-0  "
                 >
                   Contact Us
                 </a>
@@ -76,7 +76,7 @@ const Navbar = () => {
               <li>
                 <a
                   href="#careers"
-                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0  "
+                  className="uppercase block text-sm py-2 px-3 text-white font-medium font-inter rounded hover:bg-violet-800 md:hover:bg-transparent md:border-0  md:p-0  "
                 >
                   Careers
                 </a>

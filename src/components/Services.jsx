@@ -1,6 +1,6 @@
 const Services = () => {
   return (
-    <div className="flex flex-col items-center mt-10">
+    <div id="services" className="flex flex-col items-center mt-10">
       <div className="flex flex-col sm:flex-row items-center justify-around  mb-20 w-11/12 md:w-9/12 ">
         <img
           src="../../public/images/image 2.png"
