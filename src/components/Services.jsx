@@ -3,7 +3,7 @@ const Services = () => {
     <div id="services" className="flex flex-col items-center mt-10">
       <div className="flex flex-col sm:flex-row items-center justify-around  mb-20 w-11/12 md:w-9/12 ">
         <img
-          src="../../public/images/image 2.png"
+          src="../../images/image 2.png"
           className="w-[275px] h-[275px] md:w-[414px] md:h-[414px]"
           alt=""
         />
@@ -27,7 +27,7 @@ const Services = () => {
         <div className="flex flex-col items-center justify-center sm:items-start sm:justify-start ">
           <img
             className="sm:hidden block w-[275px] h-[275px] md:w-[414px] md:h-[416px]"
-            src="../../public/images/image 1.png"
+            src="../../images/image 1.png"
             alt=""
           />
           <p className="font-poppins text-2xl mb-5 text-violet-700 text-[27px] font-semibold leading-[33px] text-center sm:text-start  ">
@@ -46,7 +46,7 @@ const Services = () => {
         </div>
         <img
           className="hidden sm:block  w-[275px] h-[275px] md:w-[414px] md:h-[416px]"
-          src="../../public/images/image 1.png"
+          src="../../images/image 1.png"
           alt=""
         />
       </div>
