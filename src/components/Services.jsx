@@ -5,7 +5,7 @@ const Services = () => {
         <img
           src="../../images/image 2.png"
           className="w-[275px] h-[275px] md:w-[414px] md:h-[414px]"
-          alt=""
+          alt="Web & Mobile App Development"
         />
         <div className="flex flex-col items-center justify-center sm:items-start sm:justify-start ">
           <p className="font-poppins text-2xl mb-5 text-violet-700 text-[27px] font-semibold leading-[33px] text-center sm:text-start ">
@@ -28,7 +28,7 @@ const Services = () => {
           <img
             className="sm:hidden block w-[275px] h-[275px] md:w-[414px] md:h-[416px]"
             src="../../images/image 1.png"
-            alt=""
+            alt=" Digital Strategy Consulting"
           />
           <p className="font-poppins text-2xl mb-5 text-violet-700 text-[27px] font-semibold leading-[33px] text-center sm:text-start  ">
             Digital Strategy Consulting
@@ -47,7 +47,7 @@ const Services = () => {
         <img
           className="hidden sm:block  w-[275px] h-[275px] md:w-[414px] md:h-[416px]"
           src="../../images/image 1.png"
-          alt=""
+          alt=" Digital Strategy Consulting"
         />
       </div>
     </div>

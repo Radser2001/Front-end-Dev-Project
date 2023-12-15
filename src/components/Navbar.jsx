@@ -13,7 +13,7 @@ const Navbar = () => {
           <img
             src="../../images/Logo.png"
             className="w-[238.89px] h-[40px]"
-            alt="AT Digital logo"
+            alt="ATDigital logo"
           />
 
           <button
